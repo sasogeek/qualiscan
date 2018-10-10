@@ -11,11 +11,9 @@ CORS(application)
 
 
 def predict(image):
-    # TODO(developer): Uncomment and set the following variables
     project_id = 'qualiscan-216706'
     compute_region = 'us-central1'
     model_id = 'ICN2956512205565128229'
-    # file_path = '/local/path/to/file'
     score_threshold = '0.5'
 
     automl_client = automl.AutoMlClient()
