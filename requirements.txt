@@ -3,7 +3,7 @@ certifi==2018.8.24
 chardet==3.0.4
 Click==7.0
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 google-api-core==1.4.0
 google-auth==1.5.1
 google-cloud-automl==0.1.1
